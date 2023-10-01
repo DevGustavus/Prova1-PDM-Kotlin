@@ -29,16 +29,16 @@ This project primarily focused on the back-end and mobile programming logic, wit
 
 ````bash
     # Select where you want to clone
-    $ cd ~/Documents
+    $ cd ~/Documents/WHERE_YOU_WANT
 ````
 
 ````bash
     # Clone the project
-    $ git clone https://github.com/DevGustavus/form_login_cadastro.git
+    $ git clone https://github.com/DevGustavus/REPOSITORY_NAME.git
 ````
 
 ````bash
     # Check if cloning worked fine
-    $ cd ~/Documents/form_login_cadastro
+    $ cd ~/Documents/DIRECTORY_LOCATION
     $ ls
 ````
